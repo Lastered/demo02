@@ -1,1 +1,2 @@
 hello from szymon 
+goodbye from szymon 
